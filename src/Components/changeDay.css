@@ -1,0 +1,16 @@
+.div {
+  text-align: center;
+  padding: 15%;
+}
+
+.day {
+  background: #bed6ff;
+  color: #000;
+  transition: all 0.5s;
+}
+
+.night {
+  background: #191161;
+  color: #fff;
+  transition: all 0.5s;
+}
